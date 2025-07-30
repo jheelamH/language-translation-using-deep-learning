@@ -1,5 +1,4 @@
-````markdown
-# 🌐 Language Translation Using Deep Learning
+## 🌐 Language Translation Using Deep Learning
 
 An end-to-end deep learning project for translating text between languages using neural machine translation (NMT) models.
 
